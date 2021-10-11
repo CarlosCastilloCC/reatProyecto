@@ -1,0 +1,9 @@
+:root{
+    --bg-azul: var(#aee7f7);
+    --cyan: var(#17a2b8);
+    --white: var(#fff);
+    --primary: var(#007bff);
+    --secondary: var(#6c757d);
+    --bg-light: var(#f8f9fa);
+    --dark: var(#343a40);
+}

@@ -1,0 +1,115 @@
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#row1 {
+    width: 1007px;
+}
+
+header {
+    background-color: #f8f9fa;
+}
+
+img {
+    width: 150px;
+}
+
+.navbar {
+    padding: 0;
+}
+
+#navbarNav {
+    /* padding-left: 700px;*/
+    justify-content: flex-end;
+}
+
+#menu a:hover {
+    color: black!important;
+    background-color: #007bff;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: cornflowerblue;
+}
+
+.navbar {
+    padding: 0;
+    /* width: 1229px;*/
+}
+
+@font-face {
+    font-family: Book;
+    src: url("../../assets/fonts/futura_md_bt_bold.ttf");
+}
+
+.text-titulo {
+    font-family: Book;
+}
+
+@font-face {
+    font-family: futura;
+    src: url("../../assets/fonts/FuturaBookBT.ttf");
+}
+
+.text-texto {
+    font-family: futura;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+
+@media only screen and (min-width: 600px) {
+    .navbar {
+        padding: 0;
+        width: 510px;
+    }
+    #row1 {
+        width: 350px;
+    }
+    #row2 {
+        width: 610px;
+    }
+    #navbar-toggler {
+        margin-left: 55px;
+    }
+}
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media only screen and (min-width: 768px) {
+    .navbar {
+        padding: 0;
+        width: 889px;
+    }
+    #row1 {
+        width: 350px;
+    }
+    #navbar-toggler {
+        margin-left: 55px;
+    }
+    #row2 {
+        width: 770px;
+    }
+}
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+
+@media only screen and (min-width: 992px) {
+    #row2 {
+        width: 1184px;
+    }
+    #row1 {
+        width: 1184px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    #row2 {
+        width: 1903px;
+    }
+}
