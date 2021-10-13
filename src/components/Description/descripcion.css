@@ -113,7 +113,7 @@ video:focus {
 @media only screen and (min-width: 768px) {
     .video {
         width: 650px;
-        /*margin-left: 135px;*/
+        margin-left:65px
     }
     .l1 {
         padding-top: 52px;
@@ -139,12 +139,12 @@ video:focus {
 @media only screen and (min-width: 992px) {
     .video {
         width: 650px;
-        margin-right: 45px;
+        margin-right: 95px!important;
         display: block;
         /* margin: auto; */
     }
     .l1 {
-        padding-top: 32px!important;
+        padding-top: 72px!important;
         padding-right: 5px;
         padding-left: 0;
         margin-right: 55px;
@@ -168,8 +168,9 @@ video:focus {
 }
 
 @media only screen and (min-width: 1200px) {
+    
     .l1 {
-        padding-top: 82px;
+        padding-top: 82px!important;
         padding-right: 5px;
         padding-left: 65;
         margin-right: 55px;

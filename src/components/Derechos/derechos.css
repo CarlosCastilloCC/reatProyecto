@@ -92,20 +92,26 @@ a.correo {
         padding-top: 25px;
         padding-right: 23px;
     }
+    .fabook{
+        margin-left: 72px;
+    }
+    .instagram{
+        margin-left: 2px;
+    }
     .footer {
         /* padding-top: 129px; */
         align-items: center;
         padding-top: 25px;
         font-size: 19px;
         padding-right: 15px;
-        padding-left: 95px;
+        padding-left: 102px;
     }
     .footer1 {
         padding-left: 145px;
         width: 250px;
     }
     .contenido {
-        padding-left: 120px;
+        padding-left: 125px;
         font-size: 20px;
     }
     #final {
@@ -122,7 +128,13 @@ a.correo {
         text-align: center;
         height: 65%;
         padding-top: 25px;
-        padding-right: 523px;
+        /* padding-right: 523px; */
+    }
+    .fabook{
+        margin-left: 172px;
+    }
+    .instagram{
+        margin-left: 2px;
     }
     .footer {
         /* padding-top: 129px; */
@@ -130,14 +142,14 @@ a.correo {
         padding-top: 25px;
         font-size: 19px;
         padding-right: 125px;
-        padding-left: 185px;
+        padding-left: 235px;
     }
     .footer1 {
         padding-left: 145px;
         width: 250px;
     }
     .contenido {
-        padding-left: 200px;
+        padding-left: 265px;
         font-size: 20px;
     }
     #final {
@@ -163,6 +175,12 @@ a.correo {
         height: 65%;
         padding-top: 25px;
         padding-right: 20px!important;
+    }
+    .fabook{
+        margin-left: 0px!important;
+    }
+    .instagram{
+        margin-left: 2px;
     }
     .contenido {
         padding-left: 25px!important;
