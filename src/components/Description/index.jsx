@@ -3,7 +3,7 @@ import video from "../../assets/video/video.mp4";
 
 function Descripcion() {
     return (
-        <section className="s2">
+        <section className="s2" id="acerca">
            
             <div className="container text-center">
                 <div className="row">

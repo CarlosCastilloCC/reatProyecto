@@ -3,7 +3,7 @@ import Salud from "../../assets/images/salud.png"
 
 function Beneficios() {
     return (
-        <section >
+        <section id="beneficios">
             <div className="container" id="beneficio">
                 <div className="row">
                     <div className="col-lg-6 col-sm-12 col-md-12" >

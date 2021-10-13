@@ -3,7 +3,7 @@ import imagenDos from "../../assets/images/Testimonios2.jpg"
 
 function Carrusel() {
     return (
-        <section className="col-sm-12-mb-12-lg-12 carrusel-min">
+        <section className="col-sm-12-mb-12-lg-12 carrusel-min" id="testimonios">
             <div className="row">
                 <div className="col medidas">
                     <div id="carouselExampleCaptions" className="carousel slide" data-ride="carousel">
