@@ -137,26 +137,32 @@ video:focus {
 }
 
 @media only screen and (min-width: 992px) {
+    .video {
+        width: 650px;
+        margin-right: 45px;
+        display: block;
+        /* margin: auto; */
+    }
     .l1 {
-        padding-top: 52px;
+        padding-top: 32px!important;
         padding-right: 5px;
         padding-left: 0;
         margin-right: 55px;
         margin-left: 55px;
-        font-size: 20px;
+        font-size: 18px;
     }
     .l2 {
         padding-right: 5px;
         padding-left: 0;
         margin-right: 55px;
-        font-size: 20px;
+        font-size: 18px;
         margin-left: 55px;
     }
     .l3 {
         padding-right: 5px;
         padding-left: 0;
         margin-right: 55px;
-        font-size: 20px;
+        font-size: 18px;
         margin-left: 55px;
     }
 }
