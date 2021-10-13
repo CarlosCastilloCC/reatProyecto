@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-jandafit/static/css/main.45accd5d.chunk.css",
+    "main.js": "/react-jandafit/static/js/main.93aeb1c0.chunk.js",
+    "main.js.map": "/react-jandafit/static/js/main.93aeb1c0.chunk.js.map",
+    "runtime-main.js": "/react-jandafit/static/js/runtime-main.817a0a06.js",
+    "runtime-main.js.map": "/react-jandafit/static/js/runtime-main.817a0a06.js.map",
+    "static/js/2.1eacddc9.chunk.js": "/react-jandafit/static/js/2.1eacddc9.chunk.js",
+    "static/js/2.1eacddc9.chunk.js.map": "/react-jandafit/static/js/2.1eacddc9.chunk.js.map",
+    "static/js/3.4951d7dd.chunk.js": "/react-jandafit/static/js/3.4951d7dd.chunk.js",
+    "static/js/3.4951d7dd.chunk.js.map": "/react-jandafit/static/js/3.4951d7dd.chunk.js.map",
+    "index.html": "/react-jandafit/index.html",
+    "static/css/main.45accd5d.chunk.css.map": "/react-jandafit/static/css/main.45accd5d.chunk.css.map",
+    "static/js/2.1eacddc9.chunk.js.LICENSE.txt": "/react-jandafit/static/js/2.1eacddc9.chunk.js.LICENSE.txt",
+    "static/media/derechos.css": "/react-jandafit/static/media/futura_md_bt_bold.61088104.ttf",
+    "static/media/Logo2.a3eef3b4.png": "/react-jandafit/static/media/Logo2.a3eef3b4.png",
+    "static/media/Testimonios2.807de8eb.jpg": "/react-jandafit/static/media/Testimonios2.807de8eb.jpg",
+    "static/media/caja.css": "/react-jandafit/static/media/inicio.1172ff28.jpeg",
+    "static/media/salud.fc559049.png": "/react-jandafit/static/media/salud.fc559049.png",
+    "static/media/video.5a6cc248.mp4": "/react-jandafit/static/media/video.5a6cc248.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.817a0a06.js",
+    "static/js/2.1eacddc9.chunk.js",
+    "static/css/main.45accd5d.chunk.css",
+    "static/js/main.93aeb1c0.chunk.js"
+  ]
+}
